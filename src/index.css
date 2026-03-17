@@ -1,0 +1,35 @@
+body {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/c4/Blackeyegalaxy.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  color: white;
+}
+
+.card {
+  background-color: rgba(0, 0, 0, 0.75) !important;
+  color: white !important;
+  border: 1px solid rgba(255, 232, 31, 0.3) !important;
+}
+
+.card-text, .text-muted {
+  color: #adb5bd !important;
+}
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.85) !important;
+  border-bottom: 2px solid #FFE81F;
+}
+
+.dropdown-menu {
+  background-color: rgba(0, 0, 0, 0.95) !important;
+  border: 1px solid #FFE81F !important;
+}
+
+.dropdown-item {
+  color: white !important;
+}
+
+.dropdown-item:hover {
+  background-color: rgba(255, 232, 31, 0.2) !important;
+}
